@@ -45,4 +45,4 @@ O maior objetivo deste projeto foi consolidar a manipulação de dados utilizand
 4. Abra o arquivo `index.html` no seu navegador (ou utilize a extensão Live Server no VS Code).
 
 ---
-Desenvolvido com 💻 por [Seu Nome](https://github.com)
+Desenvolvido por Fábio de Souza Ribeiro (https://github.com/FabioSouza2025)
